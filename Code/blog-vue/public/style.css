@@ -1,0 +1,102 @@
+/* 设置公共css，主要是更改element自带的样式 */
+
+/* 去掉 el-menu 的下边框 */
+.el-menu.el-menu--horizontal {
+    border-bottom: none !important;
+}
+
+/* 每个 el-menu 的样式自定义*/
+.el-menu--horizontal>.el-menu-item {
+    color: white !important;
+    font-size: 14px;
+}
+.el-menu--horizontal>.el-menu-item.is-active{
+    border-bottom: 2px solid rgb(60, 214, 22) !important;
+}
+
+.el-menu--horizontal>.el-menu-item:not(.is-disabled):focus,
+.el-menu--horizontal>.el-menu-item:not(.is-disabled):hover,
+.el-menu--horizontal>.el-submenu .el-submenu__title:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* el-menu 带有子菜单的 menu设置 */
+.el-menu--horizontal>.el-submenu .el-submenu__title{
+    color: white !important;
+}
+.el-popper.is-light,
+.el-dropdown-menu,
+.el-submenu__title,
+.el-menu,
+.el-menu-item {
+    background-color: rgba(0,0,0,0.3) !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+.el-menu-item:hover{
+    color: aqua !important;
+}
+
+/* banner */
+.banner {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    height: 400px;
+
+    animation: header-effect 1s;
+}
+.banner-title {
+    position: absolute;
+    top: 8.5rem;
+    width: 100%;
+    font-size: 1.625rem;
+    text-align: center;
+    color: #eee;
+    animation: title-scale 1s;
+}
+
+@keyframes header-effect {
+    0% {
+        opacity: 0;
+        filter: alpha(opacity=0);
+        transform: translateY(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        filter: none;
+        transform: translateY(0);
+    }
+}
+
+@keyframes title-scale {
+    0% {
+        opacity: 0;
+        filter: alpha(opacity=0);
+        transform: scale(.7);
+    }
+
+    100% {
+        opacity: 1;
+        filter: none;
+        transform: scale(1);
+    }
+}
+
+.el-table td,
+.el-table th{
+    text-align: center !important;
+}
+
+@media screen and (max-width:1300px) {
+    #app{
+        width: 1300px;
+    }   
+    .banner,.home-banner {
+        width: 1300px !important;
+    }
+    .el-main{
+        width: 1300px;
+    }
+}

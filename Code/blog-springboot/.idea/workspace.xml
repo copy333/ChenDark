@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb048c43-0429-478a-a1b4-80a197575a61" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="G:\BLOG\blog\" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1oSO05HZfwInwQnrABM0rXZOXsb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24597701" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\BLOG\blog\blog-context\src\main\resources\mapper\xml" />
+      <recent name="G:\BLOG\blog\blog-member\src\main\resources\mapper" />
+      <recent name="G:\BLOG\blog\blog-common\src\main\resources\static\PageImg" />
+      <recent name="G:\BLOG\blog\blog-common\src\main\resources\static\js" />
+      <recent name="G:\BLOG\blog\blog-common\src\main\java\com\chen\common\handler" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chen.common" />
+      <recent name="com.chen.context" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chen.context.controller" />
+      <recent name="com.chen.context.config" />
+      <recent name="com.chen.member" />
+      <recent name="com.chen.common.config" />
+      <recent name="com.chen.member.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\BLOG\blog\blog-context\src\main\java\com\chen\context\mapper" />
+      <recent name="G:\BLOG\blog\blog-context\src\main\resources\mapper\xml" />
+      <recent name="G:\BLOG\blog\blog-context\src\main\java\com\chen\context\service\impl" />
+      <recent name="G:\BLOG\blog\blog-context\src\main\java\com\chen\context\service" />
+      <recent name="G:\BLOG\blog\blog-context\src\main\java\com\chen\context\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogContextApplication">
+    <configuration name="AesEncryptUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.context.aes.AesEncryptUtil" />
+      <module name="blog-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.context.aes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chen.common.utils.MybatisPlusGenerator" />
+      <module name="blog-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen.context" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.context.CodeGenerator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen.context" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.context.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.chen.context.controller在blog-context" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.context.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen.context.controller" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogContextApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog-context" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.context.BlogContextApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.com.chen.context.controller在blog-context" />
+      <item itemvalue="JUnit.CodeGenerator.run" />
+      <item itemvalue="JUnit.CodeGenerator" />
+      <item itemvalue="Spring Boot.BlogContextApplication" />
+      <item itemvalue="应用程序.MybatisPlusGenerator" />
+      <item itemvalue="应用程序.AesEncryptUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CodeGenerator" />
+        <item itemvalue="JUnit.CodeGenerator.run" />
+        <item itemvalue="JUnit.com.chen.context.controller在blog-context" />
+        <item itemvalue="应用程序.AesEncryptUtil" />
+        <item itemvalue="应用程序.MybatisPlusGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zjhwd\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb048c43-0429-478a-a1b4-80a197575a61" name="默认的" comment="" />
+      <created>1613276298485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613276298485</updated>
+      <workItem from="1613276302720" duration="1346000" />
+      <workItem from="1613277772616" duration="18856000" />
+      <workItem from="1613375899181" duration="12647000" />
+      <workItem from="1613443740602" duration="27211000" />
+      <workItem from="1613532533237" duration="22299000" />
+      <workItem from="1613616961140" duration="9746000" />
+      <workItem from="1613702180658" duration="6835000" />
+      <workItem from="1613819179736" duration="6497000" />
+      <workItem from="1613870062033" duration="2561000" />
+      <workItem from="1613896906705" duration="6165000" />
+      <workItem from="1613957510312" duration="20117000" />
+      <workItem from="1614040431693" duration="11298000" />
+      <workItem from="1614081686131" duration="199000" />
+      <workItem from="1614135633334" duration="1736000" />
+      <workItem from="1614219083620" duration="742000" />
+      <workItem from="1614241719807" duration="2488000" />
+      <workItem from="1614259447588" duration="1363000" />
+      <workItem from="1614351011986" duration="2862000" />
+      <workItem from="1614391632378" duration="6805000" />
+      <workItem from="1614514199326" duration="1464000" />
+      <workItem from="1614557060243" duration="212000" />
+      <workItem from="1614566699467" duration="4005000" />
+      <workItem from="1614652831433" duration="37844000" />
+      <workItem from="1614749658155" duration="9845000" />
+      <workItem from="1614861585368" duration="1477000" />
+      <workItem from="1614942692296" duration="1304000" />
+      <workItem from="1614944133090" duration="13292000" />
+      <workItem from="1614997256265" duration="16000" />
+      <workItem from="1615373555863" duration="11523000" />
+      <workItem from="1615459727498" duration="648000" />
+      <workItem from="1615467737953" duration="2989000" />
+      <workItem from="1615510950749" duration="9822000" />
+      <workItem from="1615542337111" duration="52000" />
+      <workItem from="1615542472999" duration="13649000" />
+      <workItem from="1615609647385" duration="5595000" />
+      <workItem from="1615616941801" duration="2376000" />
+      <workItem from="1615634261831" duration="1503000" />
+      <workItem from="1615803915637" duration="86000" />
+      <workItem from="1617018866821" duration="125000" />
+      <workItem from="1617019239611" duration="785000" />
+      <workItem from="1617098383398" duration="10686000" />
+      <workItem from="1617111120301" duration="2018000" />
+      <workItem from="1617170492321" duration="7009000" />
+      <workItem from="1617252314353" duration="223000" />
+      <workItem from="1617518687942" duration="359000" />
+      <workItem from="1617679492693" duration="4989000" />
+      <workItem from="1617701050279" duration="4615000" />
+      <workItem from="1617707721239" duration="1489000" />
+      <workItem from="1617929803215" duration="683000" />
+      <workItem from="1617956391739" duration="611000" />
+      <workItem from="1618198657047" duration="857000" />
+      <workItem from="1618224164053" duration="3658000" />
+      <workItem from="1618232383074" duration="1082000" />
+      <workItem from="1618233717994" duration="70000" />
+      <workItem from="1618233795289" duration="40000" />
+      <workItem from="1618233862181" duration="114000" />
+      <workItem from="1618234004574" duration="2743000" />
+      <workItem from="1618282883906" duration="5912000" />
+      <workItem from="1618289935680" duration="613000" />
+      <workItem from="1618304568677" duration="17689000" />
+      <workItem from="1618385529900" duration="7474000" />
+      <workItem from="1618461142152" duration="8178000" />
+      <workItem from="1618531329499" duration="26953000" />
+      <workItem from="1618624726112" duration="3238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="112" key="#BlogContextApplication" timestamp="1618233962401">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="323" y="112" key="#BlogContextApplication/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618233962401" />
+    <state x="682" y="292" width="782" height="386" key="#Notifications" timestamp="1613278093868">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="682" y="292" width="782" height="386" key="#Notifications/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613278093868" />
+    <state x="254" y="85" width="1160" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618558808636">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" width="1160" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618558808636" />
+    <state x="605" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1618557017239">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-849" y="239" key="#com.intellij.ide.util.MemberChooser/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618555290799" />
+    <state x="605" y="135" key="#com.intellij.ide.util.MemberChooser/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618557017239" />
+    <state x="581" y="49" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1617702079819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="581" y="49" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1617702079819" />
+    <state x="428" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617111209283">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="428" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1617111209283" />
+    <state x="587" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1617111211588">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="587" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1617111211588" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618624899157">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-914" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618532705131" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618624899157" />
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1618567795560">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618567795560" />
+    <state x="392" y="88" width="816" height="730" key="#意图" timestamp="1613301922753">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" width="816" height="730" key="#意图/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613301922753" />
+    <state x="-1002" y="210" key="#检查" timestamp="1614947565617">
+      <screen x="-1366" y="125" width="1366" height="728" />
+    </state>
+    <state x="-1002" y="210" key="#检查/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1614947565617" />
+    <state x="426" y="108" key="#检查/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613302428075" />
+    <state x="685" y="292" width="631" height="276" key="#通知" timestamp="1613299483975">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="685" y="292" width="631" height="276" key="#通知/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613299483975" />
+    <state x="280" y="4" key="#项目结构" timestamp="1615561496104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="#项目结构/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1615561496104" />
+    <state x="325" y="114" width="440" height="525" key="FileChooserDialogImpl" timestamp="1618285153947">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-811" y="222" key="FileChooserDialogImpl/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618198696553" />
+    <state x="325" y="114" width="440" height="525" key="FileChooserDialogImpl/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618285153947" />
+    <state x="277" y="97" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617710822704" />
+    <state width="1110" height="117" key="GridCell.Tab.0.bottom" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.0.bottom/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787571" />
+    <state width="1110" height="117" key="GridCell.Tab.0.bottom/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.0.center" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.0.center/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787571" />
+    <state width="1110" height="117" key="GridCell.Tab.0.center/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.0.left" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.0.left/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787570" />
+    <state width="1110" height="117" key="GridCell.Tab.0.left/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.0.right" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.0.right/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787571" />
+    <state width="1110" height="117" key="GridCell.Tab.0.right/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.1.bottom" timestamp="1618635177892">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.1.bottom/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787572" />
+    <state width="1110" height="117" key="GridCell.Tab.1.bottom/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177892" />
+    <state width="941" height="158" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617710980213" />
+    <state width="1110" height="117" key="GridCell.Tab.1.center" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.1.center/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787572" />
+    <state width="1110" height="117" key="GridCell.Tab.1.center/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.1.left" timestamp="1618635177891">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.1.left/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787572" />
+    <state width="1110" height="117" key="GridCell.Tab.1.left/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177891" />
+    <state width="941" height="158" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1110" height="117" key="GridCell.Tab.1.right" timestamp="1618635177892">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="940" height="242" key="GridCell.Tab.1.right/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1618549787572" />
+    <state width="1110" height="117" key="GridCell.Tab.1.right/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618635177892" />
+    <state width="941" height="158" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1617710980212" />
+    <state width="1142" height="2" key="GridCell.Tab.2.bottom" timestamp="1615385791672">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="980" height="279" key="GridCell.Tab.2.bottom/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1614675509290" />
+    <state width="1142" height="2" key="GridCell.Tab.2.bottom/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1615385791672" />
+    <state width="967" height="224" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614784106910" />
+    <state width="1142" height="2" key="GridCell.Tab.2.center" timestamp="1615385791671">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="980" height="279" key="GridCell.Tab.2.center/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1614675509290" />
+    <state width="1142" height="2" key="GridCell.Tab.2.center/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1615385791671" />
+    <state width="967" height="224" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1614784106910" />
+    <state width="1142" height="2" key="GridCell.Tab.2.left" timestamp="1615385791671">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="980" height="279" key="GridCell.Tab.2.left/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1614675509290" />
+    <state width="1142" height="2" key="GridCell.Tab.2.left/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1615385791671" />
+    <state width="967" height="224" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1614784106910" />
+    <state width="1142" height="2" key="GridCell.Tab.2.right" timestamp="1615385791671">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="980" height="279" key="GridCell.Tab.2.right/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1614675509290" />
+    <state width="1142" height="2" key="GridCell.Tab.2.right/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1615385791671" />
+    <state width="967" height="224" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1614784106910" />
+    <state x="380" y="164" key="IDE.errors.dialog" timestamp="1613280984748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="164" key="IDE.errors.dialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613280984748" />
+    <state x="284" y="34" key="Maven.ArtifactSearchDialog" timestamp="1618233327984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="284" y="34" key="Maven.ArtifactSearchDialog/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618233327984" />
+    <state x="298" y="43" width="858" height="513" key="Registry" timestamp="1613641871937">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1112" y="161" width="858" height="513" key="Registry/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1613639441067" />
+    <state x="298" y="43" key="Registry/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613641871937" />
+    <state x="270" y="9" key="SettingsEditor" timestamp="1618233974095">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1109" y="133" key="SettingsEditor/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1613639401983" />
+    <state x="270" y="9" key="SettingsEditor/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618233974095" />
+    <state x="231" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617702097567" />
+    <state x="-1294" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615376898669">
+      <screen x="-1366" y="125" width="1366" height="728" />
+    </state>
+    <state x="-1294" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1615376898669" />
+    <state x="337" y="161" width="911" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1613464796073">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="337" y="161" width="911" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1613464796073" />
+    <state x="298" y="49" width="929" height="738" key="new project wizard" timestamp="1617710978143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="144" key="new project wizard/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1617252407366" />
+    <state x="331" y="70" width="929" height="738" key="new project wizard/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1614762730744" />
+    <state x="298" y="49" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1617710978143" />
+    <state x="463" y="180" width="672" height="160" key="search.everywhere.popup" timestamp="1618564548559">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-971" y="277" width="672" height="574" key="search.everywhere.popup/-1366.125.1366.728/0.0.1600.860@-1366.125.1366.728" timestamp="1617174621458" />
+    <state x="463" y="180" width="672" height="160" key="search.everywhere.popup/-1366.125.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1618564548559" />
+    <state x="395" y="152" width="672" height="574" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617682206351" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog$BlogMemberApplication.ic" NAME="BlogMemberApplication Coverage Results" MODIFIED="1613454719020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
