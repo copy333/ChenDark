@@ -26,7 +26,7 @@ Github太慢的话可以访问Gitee国内地址：https://gitee.com/chendark/che
 
 ### 首页
 
-![](/img/home.png)
+![](img/home.png)
 
 ![](img/home2.png)
 
